@@ -2,5 +2,6 @@
 using namespace std;
 
 int main(){
-    int i,
+    int i;
+    cout<<
 }
